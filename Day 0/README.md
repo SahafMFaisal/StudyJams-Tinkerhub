@@ -8,7 +8,7 @@ This TypeScript application provides a simple user registration system where use
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/SahafMFaisal/StudyJams-Tinkerhub/tree/main/Day%200
    ```
 
 2. Navigate to the project directory:
