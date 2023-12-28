@@ -46,7 +46,3 @@ This TypeScript application provides a simple user registration system where use
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Make sure to replace "your-username" and "your-repo" with your actual GitHub username and repository name. Also, update the license information in the `LICENSE` file if needed.
